@@ -1,0 +1,59 @@
+window.i18n = window.i18n || {};
+window.i18n.en = {
+  "nav.about":    "About",
+  "nav.services": "Services",
+  "nav.process":  "Process",
+  "nav.contact":  "Contact",
+
+  "hero.headline":    "Custom-made curtains designed to elevate your space",
+  "hero.subheadline": "Tailored solutions, refined finishes, and professional installation — everything designed around your style.",
+  "hero.button":      "Request a Custom Quote",
+
+  "about.tag":         "About Us",
+  "about.title":       "Crafted with precision, designed for you",
+  "about.text":        "At Kaza Decor, we specialize in custom-made curtains, offering a complete and personalized experience — from fabrication and adjustments to professional installation. Every project is designed with precision, elegance, and attention to detail, ensuring your space reflects your style.",
+  "about.feat1.title": "Premium Fabrics",
+  "about.feat1.desc":  "Carefully selected materials",
+  "about.feat2.title": "Quality Guaranteed",
+  "about.feat2.desc":  "Excellence in every detail",
+
+  "services.tag":                "What We Do",
+  "services.title":              "Our Services",
+  "services.curtains.title":     "Custom Curtains",
+  "services.curtains.desc":      "Made-to-measure curtains designed to bring elegance, comfort, and a perfect fit to your space.",
+  "services.roller.title":       "Roller Shades",
+  "services.roller.desc":        "Custom roller shades, manual or motorized, tailored to your measurements, needs, and project style.",
+  "services.alterations.title":  "Alterations & Tailoring",
+  "services.alterations.desc":   "Precision adjustments for curtains, clothing, and formal dresses, always aiming for the ideal fit and finish.",
+  "services.installation.title": "Professional Installation",
+  "services.installation.desc":  "Our experienced team provides precise and professional installation across multiple regions in the United States.",
+
+  "process.tag":         "How It Works",
+  "process.title":       "Our Process",
+  "process.step1.title": "Initial Estimate",
+  "process.step1.desc":  "We begin with an initial estimate based on the measurements and information provided by the client.",
+  "process.step2.title": "Fabric Selection",
+  "process.step2.desc":  "For nearby clients, we schedule an on-site visit to view fabric options. For remote clients, we provide an online consultation or curated visual selections.",
+  "process.step3.title": "Measurement Confirmation",
+  "process.step3.desc":  "We carefully guide the client to verify measurements, ensuring accuracy for a successful final result.",
+  "process.step4.title": "Production",
+  "process.step4.desc":  "Once all details are confirmed, we proceed with production, maintaining quality, craftsmanship, and attention to detail.",
+  "process.step5.title": "Installation",
+  "process.step5.desc":  "Our professional installation team serves multiple regions across the United States with precision and care.",
+
+  "story.tag":              "Our Story",
+  "story.who.title":        "Who We Are",
+  "story.who.text":         "At Kaza Decor, we specialize in custom-made curtains, combining craftsmanship, precision, and refined attention to detail in every project. More than a curtain company, we offer a complete, personalized experience — from fabrication and adjustments to professional installation, always tailored to each client's needs.",
+  "story.beyond.title":     "Beyond Curtains",
+  "story.beyond.text":      "Our expertise goes beyond window treatments. We also offer tailoring services, including adjustments for clothing and formal dresses. All these services come together in one place — united by the same commitment to quality, precision, and craftsmanship.",
+  "story.commitment.title": "Our Commitment",
+  "story.commitment.text":  "Every project we deliver reflects our dedication to excellence, combining functionality, elegance, and personalization. Our goal is to create spaces that not only look beautiful, but also feel complete — designed to match your lifestyle and enhance your environment.",
+
+  "cta.title":    "Ready to transform your space?",
+  "cta.text":     "Get in touch with us and receive a personalized quote tailored to your project.",
+  "cta.button":   "Request Your Quote",
+  "cta.whatsapp": "https://wa.me/?text=Hi!%20I'd%20like%20to%20request%20a%20quote%20for%20custom%20curtains.",
+
+  "footer.tagline": "Every detail matters. Every project is unique.",
+  "footer.rights":  "All rights reserved."
+};

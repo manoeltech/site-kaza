@@ -1,0 +1,59 @@
+window.i18n = window.i18n || {};
+window.i18n.es = {
+  "nav.about":    "Nosotros",
+  "nav.services": "Servicios",
+  "nav.process":  "Proceso",
+  "nav.contact":  "Contacto",
+
+  "hero.headline":     "Cortinas a medida diseñadas para realzar tu espacio",
+  "hero.subheadline":  "Soluciones personalizadas, acabados refinados e instalación profesional — todo desarrollado de acuerdo con tu estilo.",
+  "hero.button":       "Solicitar Presupuesto Personalizado",
+
+  "about.tag":         "Sobre Nosotros",
+  "about.title":       "Hecho con precisión, diseñado para ti",
+  "about.text":        "En Kaza Decor, somos especialistas en cortinas a medida y ofrecemos una experiencia completa y personalizada — desde la confección y los ajustes hasta la instalación profesional. Cada proyecto se desarrolla con precisión, elegancia y atención a los detalles, para que tu espacio refleje tu estilo.",
+  "about.feat1.title": "Telas Premium",
+  "about.feat1.desc":  "Materiales cuidadosamente seleccionados",
+  "about.feat2.title": "Calidad Garantizada",
+  "about.feat2.desc":  "Excelencia en cada detalle",
+
+  "services.tag":                "Qué Hacemos",
+  "services.title":              "Nuestros Servicios",
+  "services.curtains.title":     "Cortinas a Medida",
+  "services.curtains.desc":      "Cortinas confeccionadas a medida para aportar elegancia, confort y un acabado perfecto a tu espacio.",
+  "services.roller.title":       "Roller Shades",
+  "services.roller.desc":        "Roller shades a medida, manuales o motorizados, adaptados a tus medidas, necesidades y al estilo del proyecto.",
+  "services.alterations.title":  "Ajustes y Sastrería",
+  "services.alterations.desc":   "Realizamos ajustes y modificaciones en cortinas, ropa y vestidos de fiesta, siempre buscando el ajuste y el acabado ideales.",
+  "services.installation.title": "Instalación Profesional",
+  "services.installation.desc":  "Nuestro equipo realiza instalaciones con precisión y profesionalismo en varias regiones de Estados Unidos.",
+
+  "process.tag":         "Cómo Funciona",
+  "process.title":       "Nuestro Proceso",
+  "process.step1.title": "Presupuesto Inicial",
+  "process.step1.desc":  "Comenzamos con un presupuesto inicial basado en las medidas y la información proporcionadas por el cliente.",
+  "process.step2.title": "Selección de Tela",
+  "process.step2.desc":  "Para clientes cercanos, programamos una visita presencial para presentar las opciones de tela. Para clientes lejanos, ofrecemos atención online o referencias visuales.",
+  "process.step3.title": "Verificación de Medidas",
+  "process.step3.desc":  "Orientamos cuidadosamente al cliente para comprobar si las medidas fueron tomadas correctamente, garantizando un excelente resultado final.",
+  "process.step4.title": "Producción",
+  "process.step4.desc":  "Una vez confirmados todos los detalles, avanzamos a la producción, manteniendo calidad y atención a los detalles en cada etapa.",
+  "process.step5.title": "Instalación",
+  "process.step5.desc":  "Nuestro equipo de instalación profesional atiende varios lugares de Estados Unidos con precisión y cuidado.",
+
+  "story.tag":              "Nuestra Historia",
+  "story.who.title":        "Quiénes Somos",
+  "story.who.text":         "En Kaza Decor, somos especialistas en cortinas a medida, combinando técnica, precisión y atención refinada a los detalles en cada proyecto. Más que una empresa de cortinas, ofrecemos una experiencia completa y personalizada — desde la confección y los ajustes hasta la instalación profesional, siempre adaptada a las necesidades de cada cliente.",
+  "story.beyond.title":     "Más que Cortinas",
+  "story.beyond.text":      "Nuestra experiencia va más allá de los tratamientos de ventana. También ofrecemos servicios de sastrería, incluidos arreglos de ropa y vestidos de fiesta. Todos estos servicios se reúnen en un mismo lugar — unidos por el mismo compromiso con la calidad, la precisión y la excelencia en los acabados.",
+  "story.commitment.title": "Nuestro Compromiso",
+  "story.commitment.text":  "Cada proyecto que entregamos refleja nuestra dedicación a la excelencia, uniendo funcionalidad, elegancia y personalización. Nuestro objetivo es crear espacios que no solo se vean hermosos, sino que también transmitan una sensación de plenitud — diseñados para combinar con tu estilo de vida y realzar tu ambiente.",
+
+  "cta.title":    "¿Listo para transformar tu espacio?",
+  "cta.text":     "Ponte en contacto con nosotros y recibe un presupuesto personalizado para tu proyecto.",
+  "cta.button":   "Solicitar Presupuesto",
+  "cta.whatsapp": "https://wa.me/?text=Hola%2C%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto%20para%20cortinas%20a%20medida.",
+
+  "footer.tagline": "Cada detalle importa. Cada proyecto es único.",
+  "footer.rights":  "Todos los derechos reservados."
+};

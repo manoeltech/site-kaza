@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Kaza Decor — Custom-Made Curtains</title>
+  <meta name="description" content="Custom-made curtains designed to elevate your space. Tailored solutions, refined finishes, and professional installation.">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; style-src 'self' https://fonts.googleapis.com; font-src https://fonts.gstatic.com; img-src 'self'; script-src 'self'">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Inter:wght@300;400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <!-- NAVIGATION -->
+  <nav class="navbar" id="navbar">
+    <div class="container nav-content">
+      <a href="#" class="logo">KAZA DECOR<span class="logo-dot">.</span></a>
+      <ul class="nav-links">
+        <li><a href="#about" data-i18n="nav.about">About</a></li>
+        <li><a href="#services" data-i18n="nav.services">Services</a></li>
+        <li><a href="#process" data-i18n="nav.process">Process</a></li>
+        <li><a href="#contact" data-i18n="nav.contact">Contact</a></li>
+      </ul>
+      <div class="nav-actions">
+        <div class="lang-switcher">
+          <button class="lang-btn active" data-lang="en">EN</button>
+          <button class="lang-btn" data-lang="pt">PT</button>
+          <button class="lang-btn" data-lang="es">ES</button>
+        </div>
+        <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+          <span></span><span></span><span></span>
+        </button>
+      </div>
+    </div>
+  </nav>
+
+  <!-- HERO -->
+  <header class="hero" id="hero">
+    <div class="hero-overlay"></div>
+    <div class="container hero-content">
+      <p class="hero-tag">Custom Handmade Curtains</p>
+      <h1 data-i18n="hero.headline">Custom-made curtains designed to elevate your space</h1>
+      <p class="hero-sub" data-i18n="hero.subheadline">Tailored solutions, refined finishes, and professional installation — everything designed around your style.</p>
+      <a href="#contact" class="btn btn-primary" data-i18n="hero.button">Request a Custom Quote</a>
+    </div>
+    <div class="hero-scroll">
+      <span></span>
+    </div>
+  </header>
+
+  <!-- ABOUT SHORT -->
+  <section class="about" id="about">
+    <div class="container about-grid">
+      <div class="about-image">
+        <img src="assets/images/brand-showcase.jpeg" alt="Kaza Decor — Luxury curtains and interior" loading="lazy">
+      </div>
+      <div class="about-text">
+        <span class="section-tag" data-i18n="about.tag">About Us</span>
+        <h2 data-i18n="about.title">Crafted with precision, designed for you</h2>
+        <p data-i18n="about.text">At Kaza Decor, we specialize in custom-made curtains, offering a complete and personalized experience — from fabrication and adjustments to professional installation. Every project is designed with precision, elegance, and attention to detail, ensuring your space reflects your style.</p>
+        <div class="about-features">
+          <div class="about-feature">
+            <div class="feature-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 2L2 7l10 5 10-5-10-5zM2 17l10 5 10-5M2 12l10 5 10-5"/></svg>
+            </div>
+            <div>
+              <strong data-i18n="about.feat1.title">Premium Fabrics</strong>
+              <p data-i18n="about.feat1.desc">Carefully selected materials</p>
+            </div>
+          </div>
+          <div class="about-feature">
+            <div class="feature-icon">
+              <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+            </div>
+            <div>
+              <strong data-i18n="about.feat2.title">Quality Guaranteed</strong>
+              <p data-i18n="about.feat2.desc">Excellence in every detail</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SERVICES -->
+  <section class="services" id="services">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag" data-i18n="services.tag">What We Do</span>
+        <h2 data-i18n="services.title">Our Services</h2>
+      </div>
+      <div class="services-grid">
+        <div class="service-card">
+          <div class="service-icon">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M3 3l4 18M7 3l4 18M11 3l4 18M15 3l4 18"/></svg>
+          </div>
+          <h3 data-i18n="services.curtains.title">Custom Curtains</h3>
+          <p data-i18n="services.curtains.desc">Made-to-measure curtains designed to bring elegance, comfort, and a perfect fit to your space.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><rect x="3" y="4" width="18" height="16" rx="1"/><path d="M3 4h18M3 8h18M3 12h18M3 16h18"/></svg>
+          </div>
+          <h3 data-i18n="services.roller.title">Roller Shades</h3>
+          <p data-i18n="services.roller.desc">Custom roller shades, manual or motorized, tailored to your measurements, needs, and project style.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M14.5 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V7.5L14.5 2z"/><polyline points="14,2 14,8 20,8"/><line x1="8" y1="13" x2="16" y2="13"/><line x1="8" y1="17" x2="16" y2="17"/></svg>
+          </div>
+          <h3 data-i18n="services.alterations.title">Alterations & Tailoring</h3>
+          <p data-i18n="services.alterations.desc">Precision adjustments for curtains, clothing, and formal dresses, always aiming for the ideal fit and finish.</p>
+        </div>
+        <div class="service-card">
+          <div class="service-icon">
+            <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><path d="M9 15l2 2 4-4"/><polyline points="14,2 14,8 20,8"/></svg>
+          </div>
+          <h3 data-i18n="services.installation.title">Professional Installation</h3>
+          <p data-i18n="services.installation.desc">Our experienced team provides precise and professional installation across multiple regions in the United States.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- PROCESS -->
+  <section class="process" id="process">
+    <div class="container">
+      <div class="section-header">
+        <span class="section-tag" data-i18n="process.tag">How It Works</span>
+        <h2 data-i18n="process.title">Our Process</h2>
+      </div>
+      <div class="process-timeline">
+        <div class="process-step">
+          <div class="step-number">01</div>
+          <div class="step-content">
+            <h3 data-i18n="process.step1.title">Initial Estimate</h3>
+            <p data-i18n="process.step1.desc">We begin with an initial estimate based on the measurements and information provided by the client.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">02</div>
+          <div class="step-content">
+            <h3 data-i18n="process.step2.title">Fabric Selection</h3>
+            <p data-i18n="process.step2.desc">For nearby clients, we schedule an on-site visit to view fabric options. For remote clients, we provide an online consultation or curated visual selections.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">03</div>
+          <div class="step-content">
+            <h3 data-i18n="process.step3.title">Measurement Confirmation</h3>
+            <p data-i18n="process.step3.desc">We carefully guide the client to verify measurements, ensuring accuracy for a successful final result.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">04</div>
+          <div class="step-content">
+            <h3 data-i18n="process.step4.title">Production</h3>
+            <p data-i18n="process.step4.desc">Once all details are confirmed, we proceed with production, maintaining quality, craftsmanship, and attention to detail.</p>
+          </div>
+        </div>
+        <div class="process-step">
+          <div class="step-number">05</div>
+          <div class="step-content">
+            <h3 data-i18n="process.step5.title">Installation</h3>
+            <p data-i18n="process.step5.desc">Our professional installation team serves multiple regions across the United States with precision and care.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- STORY / FULL ABOUT -->
+  <section class="story" id="story">
+    <div class="container story-grid">
+      <div class="story-text">
+        <span class="section-tag" data-i18n="story.tag">Our Story</span>
+        <h2 data-i18n="story.who.title">Who We Are</h2>
+        <p data-i18n="story.who.text">At Kaza Decor, we specialize in custom-made curtains, combining craftsmanship, precision, and refined attention to detail in every project. More than a curtain company, we offer a complete, personalized experience — from fabrication and adjustments to professional installation, always tailored to each client's needs.</p>
+
+        <h3 data-i18n="story.beyond.title">Beyond Curtains</h3>
+        <p data-i18n="story.beyond.text">Our expertise goes beyond window treatments. We also offer tailoring services, including adjustments for clothing and formal dresses. All these services come together in one place — united by the same commitment to quality, precision, and craftsmanship.</p>
+
+        <h3 data-i18n="story.commitment.title">Our Commitment</h3>
+        <p data-i18n="story.commitment.text">Every project we deliver reflects our dedication to excellence, combining functionality, elegance, and personalization. Our goal is to create spaces that not only look beautiful, but also feel complete — designed to match your lifestyle and enhance your environment.</p>
+      </div>
+      <div class="story-images">
+        <img src="assets/images/brand-mood.jpeg" alt="Kaza Decor interior design mood" loading="lazy">
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta" id="contact">
+    <div class="container cta-content">
+      <h2 data-i18n="cta.title">Ready to transform your space?</h2>
+      <p data-i18n="cta.text">Get in touch with us and receive a personalized quote tailored to your project.</p>
+      <a href="https://wa.me/?text=Hi!%20I'd%20like%20to%20request%20a%20quote%20for%20custom%20curtains." class="btn btn-primary btn-lg" data-i18n="cta.button" data-i18n-href="cta.whatsapp" target="_blank" rel="noopener noreferrer">Request Your Quote</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer class="footer">
+    <div class="container footer-content">
+      <div class="footer-brand">
+        <span class="logo">KAZA DECOR<span class="logo-dot">.</span></span>
+        <p data-i18n="footer.tagline">Every detail matters. Every project is unique.</p>
+      </div>
+      <div class="footer-links">
+        <a href="#about" data-i18n="nav.about">About</a>
+        <a href="#services" data-i18n="nav.services">Services</a>
+        <a href="#process" data-i18n="nav.process">Process</a>
+        <a href="#contact" data-i18n="nav.contact">Contact</a>
+      </div>
+      <div class="footer-bottom">
+        <p>&copy; 2026 Kaza Decor. <span data-i18n="footer.rights">All rights reserved.</span></p>
+      </div>
+    </div>
+  </footer>
+
+  <script src="js/i18n/en.js"></script>
+  <script src="js/i18n/pt.js"></script>
+  <script src="js/i18n/es.js"></script>
+  <script src="js/main.js"></script>
+</body>
+</html>

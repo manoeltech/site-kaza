@@ -1,0 +1,59 @@
+window.i18n = window.i18n || {};
+window.i18n.pt = {
+  "nav.about":    "Sobre",
+  "nav.services": "Serviços",
+  "nav.process":  "Processo",
+  "nav.contact":  "Contato",
+
+  "hero.headline":    "Cortinas sob medida pensadas para valorizar o seu ambiente",
+  "hero.subheadline": "Soluções personalizadas, acabamentos refinados e instalação profissional — tudo desenvolvido de acordo com o seu estilo.",
+  "hero.button":      "Solicitar Orçamento Personalizado",
+
+  "about.tag":         "Sobre Nós",
+  "about.title":       "Feito com precisão, pensado para você",
+  "about.text":        "Na Kaza Decor, somos especialistas em cortinas sob medida, oferecendo uma experiência completa e personalizada — desde a confecção e ajustes até a instalação profissional. Cada projeto é desenvolvido com precisão, elegância e atenção aos detalhes, para que o seu ambiente reflita o seu estilo.",
+  "about.feat1.title": "Tecidos Premium",
+  "about.feat1.desc":  "Materiais cuidadosamente selecionados",
+  "about.feat2.title": "Qualidade Garantida",
+  "about.feat2.desc":  "Excelência em cada detalhe",
+
+  "services.tag":                "O Que Fazemos",
+  "services.title":              "Nossos Serviços",
+  "services.curtains.title":     "Cortinas Sob Medida",
+  "services.curtains.desc":      "Cortinas confeccionadas sob medida para trazer elegância, conforto e caimento perfeito ao seu ambiente.",
+  "services.roller.title":       "Roller Shades",
+  "services.roller.desc":        "Roller shades sob medida, manuais ou motorizadas, adaptadas às suas medidas, necessidades e ao estilo do projeto.",
+  "services.alterations.title":  "Ajustes e Alfaiataria",
+  "services.alterations.desc":   "Realizamos ajustes e alterações em cortinas, roupas e vestidos de festa, sempre buscando o caimento e o acabamento ideais.",
+  "services.installation.title": "Instalação Profissional",
+  "services.installation.desc":  "Nossa equipe realiza instalações com precisão e profissionalismo em diversas regiões dos Estados Unidos.",
+
+  "process.tag":         "Como Funciona",
+  "process.title":       "Nosso Processo",
+  "process.step1.title": "Orçamento Inicial",
+  "process.step1.desc":  "Começamos com um orçamento inicial baseado nas medidas e informações fornecidas pelo cliente.",
+  "process.step2.title": "Escolha do Tecido",
+  "process.step2.desc":  "Para clientes próximos, agendamos uma visita presencial para apresentar as opções de tecido. Para clientes distantes, oferecemos atendimento online ou referências visuais.",
+  "process.step3.title": "Conferência das Medidas",
+  "process.step3.desc":  "Orientamos cuidadosamente o cliente para verificar se as medidas foram tiradas corretamente, garantindo um excelente resultado final.",
+  "process.step4.title": "Produção",
+  "process.step4.desc":  "Depois de todos os detalhes confirmados, seguimos para a produção, mantendo qualidade e atenção aos detalhes em cada etapa.",
+  "process.step5.title": "Instalação",
+  "process.step5.desc":  "Nossa equipe de instalação profissional atende vários locais dos Estados Unidos com precisão e cuidado.",
+
+  "story.tag":              "Nossa História",
+  "story.who.title":        "Quem Somos",
+  "story.who.text":         "Na Kaza Decor, somos especialistas em cortinas sob medida, unindo técnica, precisão e atenção refinada aos detalhes em cada projeto. Mais do que uma empresa de cortinas, oferecemos uma experiência completa e personalizada — desde a confecção e ajustes até a instalação profissional, sempre adaptada às necessidades de cada cliente.",
+  "story.beyond.title":     "Muito Além de Cortinas",
+  "story.beyond.text":      "Nossa experiência vai além dos tratamentos de janela. Também oferecemos serviços de alfaiataria, incluindo ajustes de roupas e vestidos de festa. Todos esses serviços se encontram em um só lugar — unidos pelo mesmo compromisso com qualidade, precisão e excelência no acabamento.",
+  "story.commitment.title": "Nosso Compromisso",
+  "story.commitment.text":  "Cada projeto que entregamos reflete nossa dedicação à excelência, unindo funcionalidade, elegância e personalização. Nosso objetivo é criar ambientes que não apenas sejam bonitos, mas que também transmitam sensação de completude — pensados para combinar com o seu estilo de vida e valorizar o seu espaço.",
+
+  "cta.title":    "Pronto para transformar o seu ambiente?",
+  "cta.text":     "Entre em contato conosco e receba um orçamento personalizado para o seu projeto.",
+  "cta.button":   "Solicitar Orçamento",
+  "cta.whatsapp": "https://wa.me/?text=Ol%C3%A1!%20Gostaria%20de%20solicitar%20um%20or%C3%A7amento%20para%20cortinas%20sob%20medida.",
+
+  "footer.tagline": "Cada detalhe importa. Cada projeto é único.",
+  "footer.rights":  "Todos os direitos reservados."
+};
