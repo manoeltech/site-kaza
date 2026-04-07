@@ -100,7 +100,7 @@ const observer = new IntersectionObserver((entries) => {
 }, { threshold: 0.1, rootMargin: '0px 0px -50px 0px' });
 
 document.querySelectorAll(
-  '.service-card, .process-step, .about-text, .about-image, .story-text, .story-images, .cta-content'
+  '.section-header, .service-card, .process-step, .about-text, .about-image, .gallery-item, .story-text, .story-images, .cta-content'
 ).forEach(el => {
   el.classList.add('fade-in');
   observer.observe(el);
