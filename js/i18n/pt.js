@@ -26,7 +26,7 @@ window.i18n.pt = {
   "services.alterations.title":  "Ajustes e Alfaiataria",
   "services.alterations.desc":   "Realizamos ajustes e alterações em cortinas, roupas e vestidos de festa, sempre buscando o caimento e o acabamento ideais.",
   "services.installation.title": "Instalação Profissional",
-  "services.installation.desc":  "Nossa equipe realiza instalações com precisão e profissionalismo em diversas regiões dos Estados Unidos.",
+  "services.installation.desc":  "Nossa equipe realiza instalações com precisão, cuidado e profissionalismo.",
 
   "process.tag":         "Como Funciona",
   "process.title":       "Nosso Processo",

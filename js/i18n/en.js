@@ -26,7 +26,7 @@ window.i18n.en = {
   "services.alterations.title":  "Alterations & Tailoring",
   "services.alterations.desc":   "Precision adjustments for curtains, clothing, and formal dresses, always aiming for the ideal fit and finish.",
   "services.installation.title": "Professional Installation",
-  "services.installation.desc":  "Our experienced team provides precise and professional installation across multiple regions in the United States.",
+  "services.installation.desc":  "Our experienced team provides precise, careful, and professional installation.",
 
   "process.tag":         "How It Works",
   "process.title":       "Our Process",

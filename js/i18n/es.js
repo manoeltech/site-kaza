@@ -26,7 +26,7 @@ window.i18n.es = {
   "services.alterations.title":  "Ajustes y Sastrería",
   "services.alterations.desc":   "Realizamos ajustes y modificaciones en cortinas, ropa y vestidos de fiesta, siempre buscando el ajuste y el acabado ideales.",
   "services.installation.title": "Instalación Profesional",
-  "services.installation.desc":  "Nuestro equipo realiza instalaciones con precisión y profesionalismo en varias regiones de Estados Unidos.",
+  "services.installation.desc":  "Nuestro equipo realiza instalaciones con precisión, cuidado y profesionalismo.",
 
   "process.tag":         "Cómo Funciona",
   "process.title":       "Nuestro Proceso",
