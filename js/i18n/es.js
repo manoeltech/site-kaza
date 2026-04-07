@@ -39,7 +39,9 @@ window.i18n.es = {
   "process.step4.title": "Producción",
   "process.step4.desc":  "Una vez confirmados todos los detalles, avanzamos a la producción, manteniendo calidad y atención a los detalles en cada etapa.",
   "process.step5.title": "Instalación",
-  "process.step5.desc":  "Nuestro equipo de instalación profesional atiende varios lugares de Estados Unidos con precisión y cuidado.",
+  "process.step5.desc":  "Nuestro equipo realiza instalaciones con precisión, cuidado y profesionalismo.",
+  "process.step6.title": "Cobertura Regional",
+  "process.step6.desc":  "Confeccionamos e instalamos cortinas a medida en diversas regiones de Estados Unidos.",
 
   "gallery.tag":        "Nuestro Trabajo",
   "gallery.title":      "Mira Nuestras Cortinas en Espacios Reales",

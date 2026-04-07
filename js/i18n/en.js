@@ -39,7 +39,9 @@ window.i18n.en = {
   "process.step4.title": "Production",
   "process.step4.desc":  "Once all details are confirmed, we proceed with production, maintaining quality, craftsmanship, and attention to detail.",
   "process.step5.title": "Installation",
-  "process.step5.desc":  "Our professional installation team serves multiple regions across the United States with precision and care.",
+  "process.step5.desc":  "Our experienced team provides precise, careful, and professional installation.",
+  "process.step6.title": "Service Coverage",
+  "process.step6.desc":  "We manufacture and install custom curtains across multiple regions of the United States.",
 
   "gallery.tag":        "Our Work",
   "gallery.title":      "See Our Curtains in Real Spaces",
