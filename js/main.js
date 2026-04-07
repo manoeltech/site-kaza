@@ -28,6 +28,13 @@ function setLanguage(lang) {
     }
   });
 
+  document.querySelectorAll('[data-i18n-alt]').forEach(el => {
+    const key = el.getAttribute('data-i18n-alt');
+    if (translations[lang] && translations[lang][key]) {
+      el.alt = translations[lang][key];
+    }
+  });
+
   document.querySelectorAll('.lang-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.lang === lang);
   });

@@ -41,6 +41,15 @@ window.i18n.en = {
   "process.step5.title": "Installation",
   "process.step5.desc":  "Our professional installation team serves multiple regions across the United States with precision and care.",
 
+  "gallery.tag":        "Our Work",
+  "gallery.title":      "See Our Curtains in Real Spaces",
+  "gallery.image1.alt": "Elegant living room curtains",
+  "gallery.image2.alt": "Modern roller shades",
+  "gallery.image3.alt": "Luxury bedroom curtains",
+  "gallery.image4.alt": "Minimalist window design",
+  "gallery.image5.alt": "Custom fabric curtains",
+  "gallery.image6.alt": "Curtains with natural lighting",
+
   "story.tag":              "Our Story",
   "story.who.title":        "Who We Are",
   "story.who.text":         "At Kaza Decor, we specialize in custom-made curtains, combining craftsmanship, precision, and refined attention to detail in every project. More than a curtain company, we offer a complete, personalized experience — from fabrication and adjustments to professional installation, always tailored to each client's needs.",

@@ -41,6 +41,15 @@ window.i18n.es = {
   "process.step5.title": "Instalación",
   "process.step5.desc":  "Nuestro equipo de instalación profesional atiende varios lugares de Estados Unidos con precisión y cuidado.",
 
+  "gallery.tag":        "Nuestro Trabajo",
+  "gallery.title":      "Mira Nuestras Cortinas en Espacios Reales",
+  "gallery.image1.alt": "Cortinas elegantes para sala de estar",
+  "gallery.image2.alt": "Roller shades modernos",
+  "gallery.image3.alt": "Cortinas de lujo para dormitorio",
+  "gallery.image4.alt": "Diseño minimalista para ventana",
+  "gallery.image5.alt": "Cortinas de tela a medida",
+  "gallery.image6.alt": "Cortinas con luz natural",
+
   "story.tag":              "Nuestra Historia",
   "story.who.title":        "Quiénes Somos",
   "story.who.text":         "En Kaza Decor, somos especialistas en cortinas a medida, combinando técnica, precisión y atención refinada a los detalles en cada proyecto. Más que una empresa de cortinas, ofrecemos una experiencia completa y personalizada — desde la confección y los ajustes hasta la instalación profesional, siempre adaptada a las necesidades de cada cliente.",
