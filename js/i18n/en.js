@@ -52,7 +52,9 @@ window.i18n.en = {
   "cta.title":    "Ready to transform your space?",
   "cta.text":     "Get in touch with us and receive a personalized quote tailored to your project.",
   "cta.button":   "Request Your Quote",
-  "cta.whatsapp": "https://wa.me/?text=Hi!%20I'd%20like%20to%20request%20a%20quote%20for%20custom%20curtains.",
+  "cta.sms.button": "Send SMS",
+  "cta.whatsappText": "Hi! I'd like to request a quote for custom curtains.",
+  "cta.sms.body": "Hi! I'd like to request a quote for custom curtains.",
 
   "footer.tagline": "Every detail matters. Every project is unique.",
   "footer.rights":  "All rights reserved."

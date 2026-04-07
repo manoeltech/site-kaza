@@ -52,7 +52,9 @@ window.i18n.es = {
   "cta.title":    "¿Listo para transformar tu espacio?",
   "cta.text":     "Ponte en contacto con nosotros y recibe un presupuesto personalizado para tu proyecto.",
   "cta.button":   "Solicitar Presupuesto",
-  "cta.whatsapp": "https://wa.me/?text=Hola%2C%20me%20gustar%C3%ADa%20solicitar%20un%20presupuesto%20para%20cortinas%20a%20medida.",
+  "cta.sms.button": "Enviar SMS",
+  "cta.whatsappText": "Hola, me gustaría solicitar un presupuesto para cortinas a medida.",
+  "cta.sms.body": "Hola, me gustaría solicitar un presupuesto para cortinas a medida.",
 
   "footer.tagline": "Cada detalle importa. Cada proyecto es único.",
   "footer.rights":  "Todos los derechos reservados."

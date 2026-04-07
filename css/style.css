@@ -298,6 +298,17 @@ a {
   box-shadow: 0 4px 20px rgba(139, 94, 60, 0.3);
 }
 
+.btn-secondary {
+  background: transparent;
+  color: var(--white);
+  border: 1px solid rgba(245, 242, 238, 0.45);
+}
+
+.btn-secondary:hover {
+  background: rgba(245, 242, 238, 0.08);
+  transform: translateY(-1px);
+}
+
 .btn-lg {
   padding: 1.15rem 3rem;
   font-size: 0.85rem;
@@ -614,6 +625,13 @@ a {
   max-width: 600px;
 }
 
+.cta-actions {
+  display: flex;
+  justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 .cta h2 {
   font-family: var(--font-heading);
   font-size: clamp(2rem, 4vw, 3rem);
@@ -636,6 +654,39 @@ a {
 .cta .btn-primary:hover {
   background: var(--cream);
   color: var(--dark);
+}
+
+.btn-sms {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+  background: linear-gradient(135deg, rgba(15, 28, 38, 0.3), rgba(15, 28, 38, 0.12));
+  border-color: rgba(245, 242, 238, 0.22);
+  box-shadow: 0 16px 32px rgba(15, 28, 38, 0.18);
+  backdrop-filter: blur(10px);
+}
+
+.btn-sms-icon {
+  width: 2rem;
+  height: 2rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 999px;
+  background: rgba(245, 242, 238, 0.14);
+  color: var(--cream);
+  flex-shrink: 0;
+}
+
+.btn-sms:hover {
+  background: linear-gradient(135deg, rgba(15, 28, 38, 0.5), rgba(139, 94, 60, 0.22));
+  border-color: rgba(245, 242, 238, 0.4);
+  box-shadow: 0 20px 36px rgba(15, 28, 38, 0.24);
+}
+
+.mobile-only {
+  display: none;
 }
 
 /* ========== FOOTER ========== */
@@ -776,6 +827,17 @@ a {
     flex-wrap: wrap;
     gap: 1rem 2rem;
   }
+
+  .mobile-only {
+    display: inline-block;
+  }
+
+  .btn-sms.mobile-only {
+    display: inline-flex;
+    width: auto;
+    min-width: 0;
+    border-radius: var(--radius);
+  }
 }
 
 @media (max-width: 480px) {
@@ -790,6 +852,15 @@ a {
   .btn {
     padding: 0.85rem 2rem;
     font-size: 0.75rem;
+  }
+
+  .cta-actions {
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .btn-sms.mobile-only {
+    width: auto;
   }
 
   .service-card {

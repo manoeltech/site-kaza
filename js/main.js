@@ -4,6 +4,7 @@
    ============================================ */
 
 const translations = window.i18n;
+const contactPhone = '+14074130641';
 
 // --- LANGUAGE SWITCHER ---
 let currentLang = localStorage.getItem('kaza-lang') || 'en';
@@ -30,6 +31,23 @@ function setLanguage(lang) {
   document.querySelectorAll('.lang-btn').forEach(btn => {
     btn.classList.toggle('active', btn.dataset.lang === lang);
   });
+
+  updateContactLinks(lang);
+}
+
+function updateContactLinks(lang) {
+  const whatsappButton = document.getElementById('contactWhatsapp');
+  const smsButton = document.getElementById('contactSms');
+  const whatsappText = translations[lang]?.['cta.whatsappText'];
+  const smsBody = translations[lang]?.['cta.sms.body'];
+
+  if (whatsappButton && whatsappText) {
+    whatsappButton.href = `https://wa.me/${contactPhone.replace(/\D/g, '')}?text=${encodeURIComponent(whatsappText)}`;
+  }
+
+  if (smsButton && smsBody) {
+    smsButton.href = `sms:${contactPhone}?&body=${encodeURIComponent(smsBody)}`;
+  }
 }
 
 document.querySelectorAll('.lang-btn').forEach(btn => {
