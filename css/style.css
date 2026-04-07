@@ -747,6 +747,13 @@ a {
 }
 
 @media (max-width: 768px) {
+  body,
+  .about,
+  .service-card,
+  .story {
+    background: var(--white);
+  }
+
   .hero {
     background-position: center 35%;
   }
