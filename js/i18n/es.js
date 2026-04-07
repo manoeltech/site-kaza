@@ -68,5 +68,8 @@ window.i18n.es = {
   "cta.sms.body": "Hola, me gustaría solicitar un presupuesto para cortinas a medida.",
 
   "footer.tagline": "Cada detalle importa. Cada proyecto es único.",
+  "footer.socials": "Síguenos",
+  "footer.instagram": "Instagram",
+  "footer.facebook": "Facebook",
   "footer.rights":  "Todos los derechos reservados."
 };

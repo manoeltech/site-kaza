@@ -68,5 +68,8 @@ window.i18n.pt = {
   "cta.sms.body": "Olá! Gostaria de solicitar um orçamento para cortinas sob medida.",
 
   "footer.tagline": "Cada detalhe importa. Cada projeto é único.",
+  "footer.socials": "Redes sociais",
+  "footer.instagram": "Instagram",
+  "footer.facebook": "Facebook",
   "footer.rights":  "Todos os direitos reservados."
 };

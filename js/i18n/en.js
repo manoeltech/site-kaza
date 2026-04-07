@@ -68,5 +68,8 @@ window.i18n.en = {
   "cta.sms.body": "Hi! I'd like to request a quote for custom curtains.",
 
   "footer.tagline": "Every detail matters. Every project is unique.",
+  "footer.socials": "Follow us",
+  "footer.instagram": "Instagram",
+  "footer.facebook": "Facebook",
   "footer.rights":  "All rights reserved."
 };
